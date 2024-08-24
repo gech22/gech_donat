@@ -1,0 +1,26 @@
+*
+{
+    padding: 0;
+    margin:0;
+}
+body
+ {    background-image: url(bak.jpg);
+      background-size: cover;
+      background-position:center ;
+      box-sizing: border-box;
+      font-family: sens-serif ;
+
+}
+
+.menu-bar
+{
+    background: rgb(0,100,0);
+    text-align: center;
+}
+
+.menu-bar
+{
+    display: table-columns;
+    list-style: none;
+    color: #fff;
+}

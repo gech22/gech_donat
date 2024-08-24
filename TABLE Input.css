@@ -1,0 +1,103 @@
+/*{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+    color: #fff;
+
+}
+.loginbox p{
+    margin: 1px;
+    padding: 1px;
+    font-weight: bold;
+    
+    
+}
+.loginbox input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.loginbox input[type="text"] , .loginbox input[type="text"]
+{
+    border: none;
+    border-color: 1px solid #f70707;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color:#fff;
+    font-size: 16px;
+}
+
+.loginbox input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #faf4f4;
+    color: #000;
+    border-radius: 20px;
+    font-weight: bold;
+     
+}
+
+.loginbox a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgray;
+
+}
+/*
+.order .row{
+    padding:1rem;
+    box-shadow:0.5rem 1rem rgba(241, 144, 144, 0.5);
+    background:rgb(131, 38, 38);
+    display: flex;
+    flex-wrap:wrap;
+    gap:1.5rem;
+    border-radius: 0rem;
+}
+.order .row .image{
+    flex:1 1 30rem;
+    
+}
+
+.order .row .image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: .5rem;
+}
+
+.order .row form{
+    flex:1 1 50rem;
+    padding:1rem;
+}
+
+.order .row form .inputbox{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+.order .row form .inputbox input, .order .row form textarea{
+    padding:1rem;
+    margin:1rem 0 ;
+    font-size: 1.6rem;
+    color:#333;
+    text-transform: none;
+    border:.1rem solid rgba(0,0,0,.3);
+    border-radius:.5rem;
+    width:49%;
+}
+
+
+.order .rowform textarea{
+    width:100%;
+    resize:none;
+    height:15rem;
+}
+.order .row form .geh{
+    background: #333
+}
+
+*/
